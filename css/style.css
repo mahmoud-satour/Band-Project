@@ -1,0 +1,32 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.navBar {
+    background-color: rgb(0, 0, 0)!important;
+    opacity: 0.8;
+}
+
+.logo {
+    color: rgba(255, 255, 255, 0.904)!important;
+    letter-spacing: 3px;
+}
+
+.textColor {
+    color: rgba(255, 255, 255, 0.904)!important;
+    font-size: small;
+    letter-spacing: 3px;
+}
+
+.imageFilter {
+    filter: grayscale(100%);
+}
+p.Color {
+    color: #818181!important;
+}
+
+
+.btnSend:hover {
+    background-color: white;
+    color: black;
+}
